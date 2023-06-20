@@ -4,9 +4,10 @@
 
 body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
     margin: 0;
     color:aliceblue;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     background-color: rgba(39, 2, 51, 0.226);
 }
