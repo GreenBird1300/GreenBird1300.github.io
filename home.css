@@ -12,7 +12,8 @@ body {
 }
 
 h1{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
     letter-spacing: 1px;
-    size: 100px;
+    stroke-width: 100px;
+    font-size: larger;
 }
