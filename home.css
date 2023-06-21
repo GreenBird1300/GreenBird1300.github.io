@@ -13,6 +13,6 @@ body {
 
 h1{
     color: rgb(255, 255, 255);
-    letter-spacing: 10px;
-    font-size: large;
+    letter-spacing: 1px;
+    size: 100px;
 }
