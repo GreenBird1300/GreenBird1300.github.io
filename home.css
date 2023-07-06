@@ -18,6 +18,7 @@ h1{
 
 .header {
     position: fixed;
+    height: 200px;
 }
 
 .header img{
