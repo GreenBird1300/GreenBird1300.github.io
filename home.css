@@ -17,6 +17,17 @@ h1{
     font-size: larger;
 }
 
+.care {
+    border: 10px solid #ffffff;
+    background: #414141;
+    position: relative;
+	border-radius: 10px;
+}
+
+.care img {
+    height: fit-content;
+}
+
 .github {
 	z-index: 10000;
 	bottom: 10px;
