@@ -20,6 +20,11 @@ h1{
     position: fixed;
 }
 
+.header img{
+width: auto;
+height: 800px;
+}
+
 .care {
     border: 5px solid #ffffff;
     background: #414141;
