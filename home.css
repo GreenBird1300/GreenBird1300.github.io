@@ -6,7 +6,6 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0;
     color:aliceblue;
-    padding: 20px;
     text-align: center;
     background-color: rgba(39, 2, 51, 0.226);
 }
@@ -17,10 +16,16 @@ h1{
     font-size: larger;
 }
 
+.header {
+    position: fixed;
+}
+
 .care {
     border: 5px solid #ffffff;
     background: #414141;
-    position: relative;
+    position:relative;
+    align-content: center;
+    padding: 4px;
     height: fit-content;
     width: fit-content;
 	border-radius: 10px;
