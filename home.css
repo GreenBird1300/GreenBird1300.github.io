@@ -18,14 +18,15 @@ h1{
 }
 
 .care {
-    border: 10px solid #ffffff;
+    border: 5px solid #ffffff;
     background: #414141;
     position: relative;
+    height: fit-content;
 	border-radius: 10px;
 }
 
 .care img {
-    height: fit-content;
+    height: 100;
 }
 
 .github {
